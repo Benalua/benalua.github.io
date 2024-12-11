@@ -1,2 +1,2 @@
 # benalua.github.io
-<img src="labandula.jpg" />
+<img src="lavandula.jpg" />
